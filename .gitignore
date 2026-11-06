@@ -1,0 +1,12 @@
+# Build artifacts
+**/builds/*
+!**/builds/.gitkeep
+
+# Environment and local configuration
+.env
+
+# Editor and system files
+.vscode/
+.idea/
+*~
+.DS_Store
